@@ -1,6 +1,6 @@
 {
   "name": "@erickzic/design-system",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "main": "./src/index.tsx",
   "types": "./src/index.tsx",
   "license": "MIT",
